@@ -2,7 +2,7 @@
 
 #### A note about the semantic formatting in this tutorial:
 
-- [ ] Check boxes are steps that need to be completed.
+- [X] Check boxes are steps that need to be completed.
 
 Text that looks `like this --for --example` are commands that you should type into your terminal. Or else.
 
